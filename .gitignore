@@ -3,3 +3,6 @@
 *.lst
 /nbactions.xml
 *.netbeans_automatic_build
+/target/augfg3-1.0-SNAPSHOT/WEB-INF/lib/*.jar
+/target/*.war
+/target/augfg3-1.0-SNAPSHOT/WEB-INF/classes/de/hsbo/ksw/aufg3/*.class

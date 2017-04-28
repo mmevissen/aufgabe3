@@ -25,7 +25,6 @@ public class WeatherServlet extends HttpServlet {
         String city = "";
         try {
             city = req.getParameter("city");
-            city = req.getParameter("city");
             if(city == null)
                 city = "Bochum";
         } catch (Exception e) {
