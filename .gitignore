@@ -1,0 +1,5 @@
+/target/maven-status/maven-compiler-plugin/compile/default-compile/*.lst
+/target/classes/de/hsbo/ksw/aufg3/*.class
+*.lst
+/nbactions.xml
+*.netbeans_automatic_build
