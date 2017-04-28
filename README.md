@@ -33,7 +33,15 @@ oder aber auch eine HTML-Seite ausgegeben werden.
 
 Das Ergebnis soll als GitHub-Repository online gestellt werden.
 
-## Zusatzaufgabe
+## Zusatzaufgabe 1
 
 * Biete dem Nutzer die Möglichkeit, das Wetter für weitere Städte abzufragen.
 Hierfür soll per URL die Stadt übergeben werden, z.B.: `http://localhost:8080/weather?city=Dortmund`
+
+## Zusatzaufgabe 2
+
+Wer Interesse an `node.js` hat, kann diese Aufgabe mit Hilfe von node umsetzen.
+Einige Hinweise:
+
+* es gibt eine `openweathermap` npm library
+* `restify` ist ein leichtgewichtiger REST/HTTP server für node
